@@ -22,7 +22,7 @@ Fullstack chat platform with real-time messaging using **Next.js + NestJS + Redi
 - 🔹 Scalable WebSocket chat  
 - 🔹 Redis pub/sub for performance  
 
-### 🛒 [NTech Solar](https://github.com/your-username/project-ecommerce](https://ntechsolar.vn/)  
+### 🛒 [NTech Solar](https://ntechsolar.vn/)  
 A modern e-commerce app built with **Next.js, TypeScript, PostgreSQL**.  
 - 🔹 Shopping cart, payment integration  
 - 🔹 Server-side rendering & SEO friendly  
@@ -37,9 +37,9 @@ A modern e-commerce app built with **Next.js, TypeScript, PostgreSQL**.
 ---
 
 ## 📫 Contact Me  
-- 💼 LinkedIn: [Khang Nguyen](https://linkedin.com/in/your-username](https://www.linkedin.com/in/khang-nguy%E1%BB%85n-54b5a3344/)  
+- 💼 LinkedIn: [Khang Nguyen](https://www.linkedin.com/in/khang-nguy%E1%BB%85n-54b5a3344/)  
 - 📧 Email: khangdev2813@gmail.com  
 
 ---
 
-⭐️ From [esp-khangnguyn](https://github.com/your-username](https://github.com/esp-khangnguyn)
+⭐️ From [esp-khangnguyn](https://github.com/esp-khangnguyn)
