@@ -16,27 +16,20 @@
 
 ## 📂 Featured Projects  
 
-### 🌐 [AI Chat Platform](https://github.com/your-username/project-ai-chat)  
+### 🌐 [CX Genie](https://cxgenie.ai/)  
 Fullstack chat platform with real-time messaging using **Next.js + NestJS + Redis**.  
 - 🔹 JWT authentication & role-based access  
 - 🔹 Scalable WebSocket chat  
 - 🔹 Redis pub/sub for performance  
 
-### 🛒 [E-commerce Website](https://github.com/your-username/project-ecommerce)  
+### 🛒 [NTech Solar](https://github.com/your-username/project-ecommerce](https://ntechsolar.vn/)  
 A modern e-commerce app built with **Next.js, TypeScript, PostgreSQL**.  
 - 🔹 Shopping cart, payment integration  
 - 🔹 Server-side rendering & SEO friendly  
 - 🔹 Admin dashboard  
 
-### 📘 [Personal Blog CMS](https://github.com/your-username/project-blog)  
-Custom CMS on top of **WordPress + React** for easy content management.  
-- 🔹 Custom theme & plugin development  
-- 🔹 REST API integration with React frontend  
-
----
-
 ## 🏆 Experience  
-- **Junior Fullstack Developer @ [Your Company Name] (2022 - Now)**  
+- **Junior Fullstack Developer @ [Eastplayers] (2022 - Now)**  
   - Developed and maintained internal tools and client-facing platforms.  
   - Managed a small dev team to deliver AI-driven projects.  
   - Improved app performance by implementing caching with Redis.  
@@ -44,10 +37,9 @@ Custom CMS on top of **WordPress + React** for easy content management.
 ---
 
 ## 📫 Contact Me  
-- 🌍 Portfolio: [your-website.com](https://your-website.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)  
-- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [Khang Nguyen](https://linkedin.com/in/your-username](https://www.linkedin.com/in/khang-nguy%E1%BB%85n-54b5a3344/)  
+- 📧 Email: khangdev2813@gmail.com  
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [esp-khangnguyn](https://github.com/your-username](https://github.com/esp-khangnguyn)
